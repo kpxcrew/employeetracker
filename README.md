@@ -47,3 +47,7 @@ Utilizing the application is simple
 * Select from the prompts
 
 ## Demo
+
+
+https://user-images.githubusercontent.com/118790881/235581274-06cfca44-ac8e-4cae-a31f-e19eb8c89111.mp4
+
